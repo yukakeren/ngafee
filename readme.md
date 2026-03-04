@@ -1,6 +1,6 @@
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/53bdb655-586a-4423-b87c-c31167febe3c" />
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/0cbbf371-b260-4564-8597-6c749060e4b4" />
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/236840b8-6ec0-488f-a61f-a4a2064ff5eb" />
+<img width="73" height="160" alt="image" src="https://github.com/user-attachments/assets/53bdb655-586a-4423-b87c-c31167febe3c" />
+<img width="73" height="160" alt="image" src="https://github.com/user-attachments/assets/0cbbf371-b260-4564-8597-6c749060e4b4" />
+<img width="73" height="160" alt="image" src="https://github.com/user-attachments/assets/236840b8-6ec0-488f-a61f-a4a2064ff5eb" />
 
 
 # Panduan Instalasi APK Ngafee
